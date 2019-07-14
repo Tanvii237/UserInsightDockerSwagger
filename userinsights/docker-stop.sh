@@ -1,0 +1,1 @@
+docker stop user_insights
